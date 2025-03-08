@@ -1,0 +1,84 @@
+Namasthe React
+===============
+* VS Code - Emmet (to create a some default code from editor)
+* React will work on small piece of web page also, we can define the specific id also instead of root id.
+* NPM - is called package manager (it has the many names as appriviation)
+* npm init 
+>> this command makes the current folder becomes the use of npm.
+* package.json is the configuration file for npm
+* Most important package in our project is bundler
+* web pack,parcel,veet these 3 thinks are example's of bundler
+* npm install -D parcel 
+    >> what is the -D (dev dependency)
+    >> 2 types of dependency (dev dependency and normal dependency)
+    >> dev dependency - generally required in development
+    >> normal dependency - used in production also
+* Parcel
+    -- Dev build
+    -- Local Server
+    -- HMR - Hot Module Replacement
+    -- File Watching Algorithm - writtern by C++
+    -- Caching - Faster Builds
+        -- parcel caching every thing you do.
+    -- parcel do Image Optimization    
+    -- Minification
+    -- Bundling
+    -- Compress
+    -- Consistent Hashing
+    -- Code Splitting
+    -- Differential Bundling - support older browsers
+    -- Diagnostic
+    -- Error Handling
+    -- HTTPs
+    -- Tree Shaking - remove unused code
+    -- Different dev and prod bundles
+
+
+
+* package.json
+    "devDependencies": {
+        "parcel":"^2.8.3"
+    }
+    what is ^ (carrot) symbol and ~ (tid) symbol?
+    ^ - when there is a minor update the devDependencies will update to 2.8.4
+    ~ - when there is major update only the devDependencies will update to major version
+* package.lock.json
+    it can lock the version, the exact version for dependency is mention in lock.json file.
+* transitive dependency
+    >> once we install parcel dependency it is install its own dependency and those own dependencies
+    are install its own dependencies so we can able to see more folders in node modules once we install parcel
+    dependency only.
+* how npm know parcel dev dependency needs some more dependency because the parcel module has the 
+one package.json file also, due to that the other dependencies are installed in the node modules.
+* .gitignore
+    >> to ignore the files which don't want to add during the commit.
+    /node_modules
+    /dist
+    /parcel-cache
+
+* if you have package and package.json we can regenerate all the node_modules from these files only.
+    >> what ever you can regenerate don't put it on git because git should only have essencial things.
+* npm install (this command will recreate the node_modules folder)
+* npx parcel index.html
+    >> makes the server to use as localhost.
+* npx is directly execute the file.
+* npm is usefull for install the package.
+* npm install react 
+    >> for install the react
+* npm i react
+    >> npm i is the short version of npm install                 
+* <script type="module" src="./App.js"></script>
+    >> we have to mention the type="module", once we not mentioned type attribute we can't use the import functionality, because
+    if we not mentioned the application took it is a normal script, normal script can't do the import.
+* npx parcel build index.html (for production build)
+    >> once we received error means we have to remove the main attribute in package.json file because it makes
+    conflict.
+    >> it will put all the files into the dist folder.
+    >> after the build the all the codes are compressed and create the compressed files.
+* if the code is regenerate you don't want to put that codes in github.
+* "Browserlist":[
+    "Last 2 chrome version",
+    "Last 2 Firefox version"
+]     
+    >> this means that it will work 100% in chrome and firefox and might work in other browsers also.
+    
