@@ -23,6 +23,7 @@ Episode - 03
 * Babel is installed by parcel itself
 * Babel is javascript compiler and it basically transpiler it convert the jsx in to code which js engine can understand which is react.
 * JSX => converted into React.createElement => ReactElement-JS Object => HTMLElement(render).
+* JSX => Babel transpiles it to React.createElement => ReactElement-JS Object => HTMLElement(render).
 * Babel is converted the ES6 code in to older browser support also if required.
 
 * attribute in jsx have to give as camelCase.

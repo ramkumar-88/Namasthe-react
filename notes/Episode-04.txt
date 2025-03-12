@@ -1,0 +1,14 @@
+* Initially have the wire frame for which app we going to build (note in notebook as rough drawing)
+* Initial components are
+    - header
+        - Logo
+        - Nav Items
+    - body
+        - search
+        - Restaurant container
+            - RestaurantCard
+    - footer
+        - Copyright
+        - Links
+        - Address
+        - Contact
