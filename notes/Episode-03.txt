@@ -1,0 +1,178 @@
+Episode - 03
+ * "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",    
+    "test": "jest"
+  }
+  >> we can mention script in package.json file and can execute the command like below 
+  npm run start (npm start), due to the scripts 
+  * JSX is not a HTML inside javascript, we can called jsx is a HTML likes syntax.
+  react create element:
+  ---------------------
+  const heading = React.CreateElement(
+    "h1",
+    {id:"heading"},
+    "Namaste React"
+  );
+
+  jsx create element:
+  ------------------  
+  const jsxHeading = <h1 id="heading">Namaste React</h1>
+
+* JSX (transpiled before it reaches the JS ) by PARCEL - Babel
+* Babel is installed by parcel itself
+* Babel is javascript compiler and it basically transpiler it convert the jsx in to code which js engine can understand which is react.
+* JSX => converted into React.createElement => ReactElement-JS Object => HTMLElement(render).
+* Babel is converted the ES6 code in to older browser support also if required.
+
+* attribute in jsx have to give as camelCase.
+* if jsx is in single line it can be do but if there is 2 more lines in jsx,
+we have to wrap the lines with "()", then only it takes whole code as jsx.
+* he mention some extension usefull for react development in vs code.
+    - prettier formatter
+    - bracket pair colorization togger
+    - ES Lint
+    - Better comments    
+*  React Component
+     Class Based Component - OLD
+     Functional Component - NEW
+* React Functional Component is a normal javascript function which return some jsx elements (react elements).
+* const fn = () { true };
+    the above is same as below code, because if there is no more code for return function we can mention without
+    return keyword in arrow function.
+  const fn2 = () { 
+    return true;
+  }
+* const HeadingComponent = () => {
+    return <h1>Namaste React Functional Component</h1>;
+}
+    the above is same as below code.
+* const HeadingComponent = () => (
+    <h1 className="heading">Namaste React Functional Component</h1>);
+* Example of rendering react element and react component.
+    const heading = (
+    <h1 id="heading" className="head" tabIndex="1">Namaste React using JSX</h1>);
+
+    // React Functional Component
+    const HeadingComponent = () => {
+        return <h1 className="heading">Namaste React Functional Component</h1>;
+    };
+    // the above is same as below.
+    const HeadingComponent2 = () => (
+        <h1 className="heading">Namaste React Functional Component</h1>
+    );
+    const root = ReactDOM.createRoot(document.getElementById("root"));
+    root.render(heading); // we can render a element like this
+    root.render(<HeadingComponent />); // we can render a component like this
+* Component composition
+    -- where we can able to mention component inside the another component, this is called component composition.
+    ex:
+        const Title = () => (
+            <h1 className="head" tabIndex="5">
+                Namaste React using JSX
+            </h1>
+        );
+
+        const HeadingComponent = () => (
+            <div id="container">
+                <Title />
+                <h1 className="heading">Namaste React Functional Component</h1>
+            </div>
+        );
+* We can use the normal javascript function also instead of arrow function
+        const Title = () => (
+            <h1 className="head" tabIndex="5">
+                Namaste React using JSX
+            </h1>
+        );
+        the above is same as below
+const Title = function() {
+    return(
+        <h1 className="head" tabIndex="5">
+                Namaste React using JSX
+        </h1>
+    );
+}
+* Inside the JSX we can mention any js code inside the curly brasis {}
+ex:1 
+const number = 10000;
+const Title = () => (
+    <h1 className="head" tabIndex="5">
+        {number}
+    </h1>
+);
+
+ex:2 
+const Title = () => (
+    <h1 className="head" tabIndex="5">
+        {100 + 200}
+    </h1>
+);
+
+ex:3
+const heading = (
+<h1 id="heading" className="head" tabIndex="1">Namaste React heading element</h1>);
+
+
+const HeadingComponent = () => (
+    <div id="container">
+        {heading}
+        <h1 className="heading">Namaste React Functional Component</h1>
+    </div>
+);
+
+* mention element inside the element
+const elem = <span>React element</span>
+
+const title = (
+    <h1 className="head" tabIndex="5">
+    {elem}
+        React title element
+    </h1>
+)
+* mention component inside the element
+const HeadingComponent = () => (
+    <div id="container">
+        <h1 className="heading">Namaste React Functional Component</h1>
+    </div>
+);
+
+const title = (
+    <h1 className="head" tabIndex="3">
+        Namaste React element
+    </h1>
+    <HeadingComponent />
+);
+* const data = api.getData();
+>> if the api returns bad response (some mallisious data) is called cross site scripting issue.
+
+const HeadingComponent = () => (
+    <div id="container">
+        {data}
+    </div>
+)
+>> if we use the api response data like above with in jsx, jsx sanitize the data, jsx not blindly appending
+   the data and it validate the mallisious data and remove those datas.
+* there is no limit to mention the component.
+const Title = () => {
+    <h1 className="head" tabIndex="5">
+        Namaste React using JSX
+    </h1>
+}
+
+const HeadingComponent = () => {
+    <div id="container">
+        {Title()}
+        <Title />
+        <Title></Title>
+        <h1 className="heading">
+            Namaste React Functional Component
+        </h1>
+    </div>
+}
+
+
+    >> {Title()}
+        <Title />
+       <Title></Title>
+<Title /> and <Title></Title> and {Title()} are the same.

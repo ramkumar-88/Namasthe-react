@@ -2,12 +2,12 @@ Namasthe React
 ===============
 * VS Code - Emmet (to create a some default code from editor)
 * React will work on small piece of web page also, we can define the specific id also instead of root id.
-* NPM - is called package manager (it has the many names as appriviation)
+* NPM - is called package manager (it has the many names as abbreviation)
 * npm init 
 >> this command makes the current folder becomes the use of npm.
 * package.json is the configuration file for npm
 * Most important package in our project is bundler
-* web pack,parcel,veet these 3 thinks are example's of bundler
+* web pack,parcel,veet these 3 things are example's of bundler
 * npm install -D parcel 
     >> what is the -D (dev dependency)
     >> 2 types of dependency (dev dependency and normal dependency)
