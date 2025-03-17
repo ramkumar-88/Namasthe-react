@@ -1,0 +1,9 @@
+Episode: 05 - Let's Get Hooked
+* Any thing you can do with react (library) and angular (framework) you can do the same with
+html,css and js also, but libraries and frameworks are make developer experience easy.
+* React makes your coding experience very fast and also do some optimizaton so your application becomes very fast.
+* Folder Naming convension
+    in industry every files and folders we keep it in src folder (may the source code), this is not mandatory but we 
+    just follow which is industry following.
+* best practise is we have to keep the seperate file for all the components instead of keep in one component.
+    

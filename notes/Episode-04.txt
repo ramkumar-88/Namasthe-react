@@ -12,3 +12,48 @@
         - Links
         - Address
         - Contact
+* if we have to give style in inline in react means we have to give as a js object only like below.
+    const styleCard = {
+        backgroundColor: "#f0f0f0",
+    };
+<div className="sampleclassname" style={styleCard}>
+instead of the above one
+<div className="sampleclassname" style={{
+        backgroundColor: "#f0f0f0",
+    }}>
+* functional component in react is a normal javascript function.
+* passing a props in a functional component is like same as passing a argumnet in a javascript function.    
+* config driven ui
+    >> out website is driven by data, our website is driven by config,
+    config comes from backend.
+    >> example we can visual background color in black,white and green based on the requirement (ex: for 
+    every country we can show different color), so for that color changes we can pass the color in json which 
+    is response from backend, so based on the json responses the ui is changed correct, this is called 
+    config driven ui.  
+    >> example once we open swiggy api we can able see the json format and data as more,
+    this is called config driven ui.
+* object destructring 
+const {name,cuisine,avgRating,deliveryTime} = resData?.data;
+is the best practice instead of write the code like
+resData.data.name
+resData.data.cuisine
+resData.data.avgRating
+resData.data.deliveryTime
+* optional chaining
+The ?. operator you're referring to is known as the optional chaining operator in JavaScript.
+It allows you to safely access deeply nested properties of an object without having to explicitly check if each reference in the chain is valid.
+* we have to use the key property while using looping in react otherwise it gives a warning,
+react itself says don't use the index as key, instead of this use as a id of the json object.
+// not using keys (not acceptable) <<<< index as key <<<<< unique id (best practice)
+* once we mention ()=>() we don't have to mention return keyword, but when we mention ()=>{return "value"}
+"{}" we have to mention return keyword. 
+resList.restaurants.map((restaurant) => (
+    <Restaurantcard resList={restaurant} />     
+))
+ resList.restaurants.map((restaurant) => {
+    return <Restaurantcard resList={restaurant} />     
+})
+* use key's in the loop.
+    -- if we not give the key attribute, the react will render all component again, if we give key means,
+    react add which is newly added in existing loop.
+    -- if we don't write key, if may a become huge performance issue.

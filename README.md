@@ -18,3 +18,17 @@
 - Https
 - Tree Shaking - remove unused code
 - Different build dev and prod bundles
+
+#Initial components are
+    - header
+        - Logo
+        - Nav Items
+    - body
+        - search
+        - Restaurant container
+            - RestaurantCard
+    - footer
+        - Copyright
+        - Links
+        - Address
+        - Contact
