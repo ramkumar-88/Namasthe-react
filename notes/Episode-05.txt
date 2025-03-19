@@ -6,4 +6,11 @@ html,css and js also, but libraries and frameworks are make developer experience
     in industry every files and folders we keep it in src folder (may the source code), this is not mandatory but we 
     just follow which is industry following.
 * best practise is we have to keep the seperate file for all the components instead of keep in one component.
-    
+* keep the constants in one seperate file.
+* Two types of export and import
+    - default export/import 
+        export default Component;
+        import Component from "path";
+    - Named export/import
+        export const component;
+        import {Component} from "path";             
