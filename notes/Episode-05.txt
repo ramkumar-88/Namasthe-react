@@ -13,4 +13,52 @@ html,css and js also, but libraries and frameworks are make developer experience
         import Component from "path";
     - Named export/import
         export const component;
-        import {Component} from "path";             
+        import {Component} from "path";
+* <button onClick={()=>{console.log("test)}}></button>
+    -- example of button onclick with call back function
+* react is fast because it can do faster DOM manipulation, it can do efficient DOM manipulation, because it is
+using virtual DOM (diff algorithm)
+* what is the functional component in react - it is a normal javascript function.
+what is basically a react element at the end of the day - it is a plain javascript object
+similarly a react hook at the end of the day - is a normal javascript function which is given to us by react,
+its a pre-build the only thing is, that function comes with some super power,
+that function has some logic writtern behind the scene inside react, that function is a utility function
+given by react to us.
+* useState hook is used within component react.
+* local state variable scope is inside the component only.
+* const [listOfRestaurants] = useState([]);
+    -- inside the useState we pass the empty array it is called default value assignment like below
+    let listOfRestaurants = [];
+    -- we can pass empty array or null or default object values in useState.
+* the super powerfull variable (state) keeps ui and sync with the data layer.
+* when ever a state varible updates react re-render the components.
+
+React Algorithm
+================
+React uses reconciliation algorithm (React fiber) (came in React 16)
+=================================================
+React fiber is the new way of finding the differents and updating the DOM.
+Take as example restaurant container has 7 restaurant cards and after the filter it changed to 3 restaurant
+means, how the changes are happpend ?
+* virtual DOM is not a actual DOM 
+* virtual DOM is a representation of actual DOM
+* diff algorithm find out the differents b/w updated virtual DOM and previous virtual DOM, once it find out
+the differents b/w new DOM(object) and old DOM(object), then it will update the real DOM.
+* find out the differents b/w two html code is tough but find out the differents b/w two object is faster,
+whatever you see in the UI over here, react keeps at track of all these UI (all these html as a virtual DOM)
+as a virtual DOM (what is virtual DOM - its kind of object representation of this whole DOM),
+when ever we click on some thing, a new object is formed, react find out the differents b/w older and new DOm,
+when it find out the differents b/w two DOM's then only it actually update the real DOM, it doesn't find out the
+differents b/w html code,react doesn't touch DOM a lot, that is why react is fast, that is why every thing
+is fast in react.
+whenever there is a change in any state variable, react will find out the differents b/w virtual DOM and it will
+re-render the component, it will update the DOM.
+* why react is fast
+    -- react is doing efficient DOM manipulation because it uses virtual DOM
+    -- virtual DOM become popular concept when react uses this, virtual DOM is a concept existing in long back,
+    virtual DOM is not a react thing, virtual DOM is kind of like a javascript representation of it (object representation)
+    that is virtual DOM, react took that and build its own algorithm over that virtual DOM, react can efficently find out the
+    differents b/w virtual DOM and update the UI, this is the core of react algorithm.
+    -- it keeping the ui layer and data layer are sync, that is what the core algorithm of react.
+
+

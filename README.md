@@ -32,3 +32,9 @@
         - Links
         - Address
         - Contact
+# React Hooks
+    (Normal JS utility Functions)
+    note: we did npm react initially write that time we pull all the utility function from react to our project.
+    most important hooks are:
+    - useState() - Superpowerfull State Variables in React
+    - useEffect()

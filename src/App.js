@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Body from "./components/Body";
 
 const Applayout = () => {
+    console.log(<Body/>);
     return (
         <div className="app">
             <Header />

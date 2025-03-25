@@ -14,9 +14,9 @@ const resList = {
               "wrap",
               "Healthy Food"
             ],
-            "avgRating": 4.3,
+            "avgRating": 3,
             "parentId": "2",
-            "avgRatingString": "4.3",
+            "avgRatingString": "3",
             "totalRatingsString": "12K+",
             "sla": {
               "deliveryTime": 24,
@@ -89,13 +89,6 @@ const resList = {
             },
             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
           },
-          "analytics": {
-            "context": "seo-data-a2633476-5485-4196-a709-705cc8e0152d"
-          },
-          "cta": {
-            "link": "https://www.swiggy.com/city/chennai/subway-kanchipuram-district-egattur-rest92408",
-            "type": "WEBLINK"
-          }
         },
         {
           "info": {
@@ -109,9 +102,9 @@ const resList = {
               "Burgers",
               "American"
             ],
-            "avgRating": 4.3,
+            "avgRating": 2,
             "parentId": "166",
-            "avgRatingString": "4.3",
+            "avgRatingString": "2",
             "totalRatingsString": "19K+",
             "sla": {
               "deliveryTime": 36,
@@ -184,13 +177,6 @@ const resList = {
             },
             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
           },
-          "analytics": {
-            "context": "seo-data-a2633476-5485-4196-a709-705cc8e0152d"
-          },
-          "cta": {
-            "link": "https://www.swiggy.com/city/chennai/burger-king-kancheepuram-uthandi-rest153539",
-            "type": "WEBLINK"
-          }
         },
         {
           "info": {
@@ -282,13 +268,6 @@ const resList = {
             },
             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
           },
-          "analytics": {
-            "context": "seo-data-a2633476-5485-4196-a709-705cc8e0152d"
-          },
-          "cta": {
-            "link": "https://www.swiggy.com/city/chennai/mcdonalds-egattur-village-marina-mall-rest669756",
-            "type": "WEBLINK"
-          }
         },
         {
           "info": {
@@ -400,13 +379,6 @@ const resList = {
             },
             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
           },
-          "analytics": {
-            "context": "seo-data-a2633476-5485-4196-a709-705cc8e0152d"
-          },
-          "cta": {
-            "link": "https://www.swiggy.com/city/chennai/the-brownie-studio-thiruporur-block-padur-rest665102",
-            "type": "WEBLINK"
-          }
         },
         {
           "info": {
@@ -499,13 +471,6 @@ const resList = {
             },
             "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
           },
-          "analytics": {
-            "context": "seo-data-a2633476-5485-4196-a709-705cc8e0152d"
-          },
-          "cta": {
-            "link": "https://www.swiggy.com/city/chennai/hrx-by-eatfit-rajiv-gandhi-salai-thiruporur-block-rest579091",
-            "type": "WEBLINK"
-          }
         },
         {
           "info": {
