@@ -1,0 +1,89 @@
+Episode: 06 - Exploring the World 
+
+Monolith Architechture:
+======================
+Older Architecture:
+In older projects we have all the services in same project.
+* Api
+* UI
+* Auth
+* DB
+* SMS
+
+Microservices
+=============
+But in today's, the world is moving to micro services architechture 
+what is micro services
+BE, UI, Auth, DB, SMS, Email all these micro services forms a big app, all these services combine together
+this is know as seperation of concerns and its follow a single responsibility principles where each and every
+service has its own job nobody is interfering with it,
+in monolith archit all team use the same project and same repository but in microservice architechture
+has seperate  project and seperate repository, every one is seperate, ex: backend team is different backen project
+they have their own deployment cycle and everything is separate, this is what microservice architechture.
+
+one main question how do these services interact with each other to make the whole application work,
+there are different type of connections between these services.
+
+and another question is how are these services deployed and how we access these services,
+consider example:
+-----------------
+In one project ui is using different micro services which is written in react, we can use any tech stack for
+micro services, but in monolith, we have to use single techstack.
+
+Answer
+------
+All the services run on the own specific port,
+suppose - port 1234 - we can have a ui service,
+port 1000- we can have backend service but at the end of the day all the port's are mapped to domain name.
+port - 3001 - sms
+at the end of the day all these services mapped to domain name.
+suppose the backend is mapped to /api - it becomes https://domain.com/api
+similarly we have /sms and it becomes - https://domain.com/api
+by these only the different services talk to each other.
+the service redirect calls happend via the particular port for the particular folder.
+
+Let's see how the react js works with microservice.
+we have 2 approaches
+1.Loads ---> Api(500ms) ---> Render
+2.Loads ---> Render ---> Api ---> Re-render.
+(react follows second approach only) (its mainly for better user experience)
+that's why we use the useEffect hook.
+
+Hook is the normal javascript function, which react give to us, it has its own specific use case where
+we use these functions.
+* useEffect(()=>{
+    console.log("useEffect Called");
+},[]);
+when ever the body rendered as soon as the render cycle is finished it quickly  call the call back function in useEffect 
+also called.
+
+* we do api call using fetch, which is given to us by browser.
+* fetch will return the promise, so we use .then after returning from fetch or we can use async await.
+
+* Shimmer UI
+    -- during initial time loading, till the api get data delivered the data to the page,
+    the empty data is showing (i.e empty cards), this is called shimmer ui.
+* It means whenever the page loading render with shimmer ui and get the api call, after that
+render the ui with api response.
+* the idea of shimmer UI is, we want to show something to user very quickly, as soon as the page load.
+* Conditional rendering
+    based on condition we show the ui components this is called conditional rendering.
+* cors chrome extension
+    in some live api's are not calling from different website, during that time we can use the
+    cors chrome extension to get the api response of another site.
+* when do update state variable(useState) in react, react will re-render the particular component once
+and all the updated values will be there.
+* rendering the component means it will call the component once again, it will trigger the particular component
+once again.
+* one question 
+    - if we set some value in const variable in react then how its possible to update the const value, if it is
+    violate the javascript principle, really not, when the const variable updated, react will re-render
+    the component only, in this re-render the const variable is initiated newly with the updated value,
+    so it is not updating the existing const variable value.
+* experiment the login and logout flip type button.
+* implement the search input box and button as well and implement the search functionality.
+* when ever the state variables update, react triggers a reconciliation cycle (re-renders the component)
+* How virtual DOM in react is making in fast?
+actually virtual DOM is not making is fast, this react fiber - new react re-consiliation algorithm,
+which finds the differents b/w two virtual DOM and update the dom only when required the portion of dom 
+only that portion is required that is why react is fast. 
