@@ -87,3 +87,25 @@ once again.
 actually virtual DOM is not making is fast, this react fiber - new react re-consiliation algorithm,
 which finds the differents b/w two virtual DOM and update the dom only when required the portion of dom 
 only that portion is required that is why react is fast. 
+
+Episode - 6.1
+Swiggy APi issue resolved.
+=========================
+json viewer chrrome extension - and install this to see the json data in readable format.
+-- if any on time swiggy can change the api restautant data format, for that change we are looking for the
+solution.
+example:
+for get the restuarant details in swiggy object we have to use the below format, 
+json.data.card[5].card.card.gridElements.infoWithStyle.restaurants
+we have to change the object based on the resonse from backend team (json data).
+
+Episode - 6.2
+==============
+CORS Plugin issue resolved.
+
+add corsproxy.in/? in front of your website url to resolve once we did this, we no longer need the cors plugin
+in chrome browser.
+what it will do?
+the url will go to the cors proxy site and from there the api is called and data is fetching from
+there and returning to our website, this is resolve the cors plugin issue.
+but the cors proxy site is limit only, per minite there is some 40 or 50 api request only allow.
