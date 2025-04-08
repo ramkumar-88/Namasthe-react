@@ -1,3 +1,66 @@
 Episode: 07 - Finding the path
 ==============================
+* useEffect()
+    -- if not mention the dependency array => useEffect is called on every component render.
+    -- if dependency array is empty = [] => useEffect is called on only initial render.
+    -- if dependency array is [btnNameReact] => called everytime btnNameReact is updated.
+* useState()
+    -- never use useState in outside in your component, if do it will throw an error.
+    -- useState is used to create a local state variable within our component.
 
+we use the routing in react using react-route-dom library.
+* when ever we have create route, we have to create routing configuration.
+* here we using react router version 6.
+* import {createBrowserRouter} from "react-router-dom";
+  createBrowserRouter - is for creating router configuration
+* RouterProvider - is for provide the router configuration
+  Outlet - this will replace the routes given in RouterProvider
+import {createBrowserRouter, RouterProvider, Outlet} from "react-router-dom";
+const AppLayout = () => {
+  return(
+    <div className="app">
+      <Header />
+      <Outlet />
+    </div>
+  )
+}
+const appRouter = createBrowserRouter ([
+      {
+        path: "/",
+        element: <AppLayout />,
+        children: [
+                  {
+                    path: "/",
+                    element: <Body />
+                  },
+                  {
+                    path: "/about",
+                    element: <About />
+                  },
+                  {
+                    path: "/contact",
+                    element: <Contact />
+                  },
+
+        ]
+      },
+
+]);
+const root = ReactDOM.createRoot(doument.getElementById("root"));
+
+root.render(<RouterProvider router={appRouter} />); 
+* rafce type this keyword to auto generate a new component based on file name in vs code.
+
+* In react don't use the anchor tag, because my whole page got refreshed,
+instead of anchor tag use the link from react-router-dom.
+<a href="/about">About</a>
+instead of the above use below
+<link to="/about">About</link>
+once we use link means it will not reload the page, only the particular component replaced,
+that's why our react is called single page application, whole single component.
+it just changing the component, it not reloading the component.
+
+* There is 2 types of routing in web application.
+  1.client side routing
+  2.server side routing.
+  
