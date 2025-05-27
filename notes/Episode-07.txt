@@ -1,6 +1,7 @@
 Episode: 07 - Finding the path
 ==============================
 * useEffect()
+    -- the first argument is the callback function and second argument is optional arugument (dependency array).
     -- if not mention the dependency array => useEffect is called on every component render.
     -- if dependency array is empty = [] => useEffect is called on only initial render.
     -- if dependency array is [btnNameReact] => called everytime btnNameReact is updated.
@@ -62,5 +63,12 @@ it just changing the component, it not reloading the component.
 
 * There is 2 types of routing in web application.
   1.client side routing
+    >> page not loading, because all the components are already loaded, so we can change the component
+    with out page loading.
   2.server side routing.
-  
+    >> page loading once we do redirect or click link.
+* create the dynamic routing.
+    {
+      path: "/restaurant/:resid",
+    },
+    here we mention achieve the dynamic id by the :resid.
