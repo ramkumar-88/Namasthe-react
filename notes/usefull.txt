@@ -1,0 +1,1766 @@
+﻿எண்ணிய முடிதல் வேண்டும்,
+நல்லவே எண்ணல் வேண்டும்;
+திண்ணிய நெஞ்சம் வேண்டும்,
+தெறிந்தநல் லறிவு வேண்டும்;
+பண்ணிய பாவ மெல்லாம்
+பரிதி முன் பனியே போல,
+நண்ணிய நின்முன் இங்கு
+நசித்திடல் வேண்டும் அன்னாய்!
+
+>> mahakavi bharathiyar.
+
+credentials:
+------------
+username: ram.nagarajan88@gmail.com
+password: Capgemini@29
+
+	
+
+Details
+---------
+Sify mail url:
+
+mail url: http://login.microsoftonline.com 
+mail id: 
+username: ramkumar.nagarajan@sifycorp.com 
+password: Sify#1234 
+
+after 5-11-2020
+================
+username: ramkumar.nagarajan@sifycorp.com
+password: Sify$1234 	
+
+after 10-11-2020
+---------------- 
+password: Sify%12345  
+
+after 15-03-2022 
+================  
+password: Sify#12345
+
+after 16-06-2022 
+=================  
+password: Sify#123456
+
+        	 
+PF login  
+---------  
+Employee login:
+https://unifiedportal-mem.epfindia.gov.in/memberinterface/
+
+username: 101174264620 UAN number 
+ 
+From 22-4-2020 
+--------------  
+New password: Sify#321
+
+New password: Sify$4321
+>> from 04-10-2023.
+
+New password: Sify#321
+>> from 04-12-2023.
+
+New password: Sify$4321
+>> from 20-08-2024
+
+New password: Sify%54321
+>> from 04-12-2024
+
+PF PASSBOOK URL
+---------------
+https://passbook.epfindia.gov.in/MemberPassBook/Login
+username: 101174264620  
+
+New password: Sify%54321
+>> from 04-12-2024
+ 
+canara robeco 
+--------------
+ramal472kj@gmail.com 
+Ram@6666
+
+url: https://online.canararobeco.com/invest/home/start
+
+01102020HDFC  
+01102020----- 
+01102020ramukumar55 
+ 
+hdfc mutual fund
+-----------------
+username: ramkumar_n
+password: Ramacer@1616 
+115041019 
+ramukumar*(9 - old 
+ramukumar*)0 - new from 30-1-2022 
+
+hdfc net banking.
+----------------
+username: 115041019
+ramukumar$5 - from 11-04-2025
+
+21252125 - IPin and password for hdfc net banking.
+>> last updated on 23-03-2025.
+
+sbi
+---
+ramkumar3012
+ramukumar$5
+>> from 14-04-2024
+
+ramukumar%5
+ramukumar@2
+ramukumar$4
+>> previous password
+>> till 18-10-2023
+
+profile
+-------
+ramukumar$4
+>> updated on 25-7-2023
+ramukumar^6
+>> updated on 23-7-2024
+
+axis bank mutual fund started date
+-----------------------------------
+started on march 2019 and may unit free on from march 2022 onwards.  
+
+wifi password
+--------------
+56300604
+
+rent house wifi password
+------------------------
+username: HARISH HOME_4G security key
+password: Trading@2021
+
+new connection
+username: Airtel_hari_9734
+password: Air@36600
+
+standard chartered (7-08-2022) 
+------------------------------
+ramkumar3012
+Ramukumar(8
+>> from 22-07-2024
+
+
+UPI - 102908
+
+appa sbi 
+--------
+ramkumar30122
+Ramukumar!1 (from 02-10-2023)
+profile password:
+Kavin@25 (from 03-08-2023)
+
+mysql team member email id 
+---------------------------  
+manchili.sai@sifycorp.com 
+ 
+sify id:  
+CID - C16415 
+
+chola mandalam
+-------------- 
+https://www.cholawealthdirect.com/
+https://smarttrade.chola.murugappa.com/CMTRADE/login
+
+APA507
+Securities@24
+ (last updated 14-12-2023)
+
+infodynamic mail url: 
+-------------------------  
+url: 
+https://webmail.infodynamic.in 
+
+some times the above url is not working that time we can use the below url:
+
+https://localmail.infodynamic.net/
+
+another reference url:
+-----------------------
+https://portal.infodynamic.net/
+>> go the the webmail-local/india option. 
+
+
+username:  
+ramkumar.n@infodynamic.in
+ramkumar.n - Some times this may helpfull. 
+password:    
+Welcome$22  
+
+murugesan mail id:
+------------------ 
+murugesansaiza@gmail.com 
+saizaa4646   
+
+my new mail id for interview purpose 
+------------------------------------
+ramkumarreactjs@gmail.com
+June#4321
+
+
+we can send a mail to this mail id for any technical changes.
+------------------------------------------------------------- 
+technical@infodynamic.net
+ 
+In ID for Tax related activities we have to call to murugan.
+>> 9884292425
+
+In ID for Insurance related activities we have to call to saravanan admin id.
+>> 9176640929 
+
+DB details of dev and live clone
+---------------------------------  
+ccoss/corpdev123@124.7.61.3:1521/CORPDEV      
+
+ccoss/sify123@223.31.220.12:1522/CRPCLONE   
+
+ccoss readonly db details
+--------------------------   
+ccoss_readonly/readGccoss@210.214.45.148:1522/corpprod 
+username/password@hostname:port/dbname 
+
+ccoss 
+OraCc05s
+
+DOP
+d0pC 
+
+
+prod db
+--------  
+ccoss/OraCc05s@210.214.45.148:1522/corpprod
+
+BCM corpprod database details:
+------------------------------ 
+ENTBCM/bllc0ll3ct@210.214.45.148:1522/CORPPROD 
+
+
+Alliance portal live url.
+-------------------------
+
+https://apps.sify.net/feasibility/upload/allfs.php
+
+ESS login details (leave portal)
+--------------------------------------- 
+http://hrms.infodynamic.net:8082/ESSLIVE/
+ 
+Log in : INF/0672
+Password : 30-12-88      
+
+Options to check leave:
+-----------------------
+ESS -> My Leave Calendar 
+
+My IP Address (ip address)
+-------------------
+Ethernet adapter Ethernet: 
+
+   Connection-specific DNS Suffix  . :
+   IPv4 Address. . . . . . . . . . . : 210.210.125.19
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 210.210.125.1
+
+IRCTC login
+------------
+username: ramkumar3012
+password: Ramukumar3013
+
+upi id: ramal472kj@okhdfcbank
+
+irctc ewallet transaction password - 
+Ramacer16
+
+mobile app pin - 2123
+
+setc
+-----
+username: ramal472kj@gmail.com
+password: ramacer16
+
+mpin from 15-6-2021
+-------------------
+2122
+
+gymnastic
+=========
+9133964579 - praveen gymnastic trainer.
+
+instagram
+=========
+username - ram.kumar.341816
+
+EB bill id (for salvation house)
+--------------------------------
+
+https://www.tnebnet.org/qwp/qpay
+050480062779
+
+>> enter the customer no and see the amount and pay the payment via the ways they given.
+
+30-11-2020
+-----------
+Ramacer16
+
+
+
+user table.
+------------   
+FUS_USER_APPMASTER
+
+sysops team ph number
+----------------------
+sysops - 1065  
+
+
+DB access details: (need to work with winscp) 
+============ 
+voice Dev access details (call rate) 
+
+Host IP - 202.191.128.194
+
+Port - 22 
+
+Username - root 
+
+Password - WryUqEbB
+
+access required
+---------------- 
+1.jira
+2.svn
+3.apex report. 
+
+Infodesk url
+-------------
+https://infodesk.sify.net
+
+jirra (Jirra)
+--------------
+url: 
+http://pdb.sify.net:8080/login.jsp
+username: ramkumar.nagarajan
+password: Sify#123  
+
+Jirra is connected with AD, so the system password is affected with Jirra. 
+
+jirra for fusion support mails given by ravi
+--------------------------------------------- 
+ISFUSION-2474
+
+
+prabu send jirra id.
+-------------------- 
+Support Id                           : ISFUSION-2446
+Meetings / Discussions  : ISFUSION-2482
+
+Meetings / Discussions  : ISFUSION-2498
+>> meeting with ram 
+
+
+jirra for pss generation
+------------------------- 
+ ISFUSION-2452
+
+jira for dop
+-------------
+ISFUSION-2457
+ISFUSION-2480
+ISFUSION-2481 
+ 
+CRM URL
+--------
+http://crm.sify.net/
+
+Apex admin 
+-----------
+http://apex.sify.net:8080/apex/f?p=4550:8:0
+WORKSPACE - Fusion
+USERNAME - ADMIN  
+password: sify1234 
+
+-> fusion report -> search the report name (use the id of hover by the apex portal). 
+
+
+
+Apex path
+----------
+Login in fusion and see the right top "Fusion Apex Reports" for the apex url.
+
+http://apex.sify.net:8080/apex/f?p=197:101::::::&notification_msg=SW52YWxpZCBMb2dpbiBDcmVkZW50aWFsczxkaXYgaWQ9ImFwZXhfbG9naW5fdGhy%7B%7Db3R0bGVfZGl2Ij5QbGVhc2Ugd2FpdCA8c3BhbiBpZD0iYXBleF9sb2dpbl90aHJv%7B%7DdHRsZV9zZWMiPjU8L3NwYW4-IHNlY29uZHMgdG8gbG9naW4gYWdhaW4uPC9kaXY-%7B%7D%2FFLtl507EoLSdE7klw2GM3Tl9kXfK7o3dX3ycabloXpubFA2y-hEPzg-zuBoxWfbzCStyfKGdeWRscayaNj1dbw 
+
+CRM user name
+---------------
+user name: ramkumar.nagarajan
+password: sify12345
+
+apex username
+--------------
+http://apex.sify.net:8080/apex/f?p=197:101::::::&notification_msg=SW52YWxpZCBMb2dpbiBDcmVkZW50aWFsczxkaXYgaWQ9ImFwZXhfbG9naW5fdGhy%7B%7Db3R0bGVfZGl2Ij5QbGVhc2Ugd2FpdCA8c3BhbiBpZD0iYXBleF9sb2dpbl90aHJv%7B%7DdHRsZV9zZWMiPjU8L3NwYW4-IHNlY29uZHMgdG8gbG9naW4gYWdhaW4uPC9kaXY-%7B%7D%2FFLtl507EoLSdE7klw2GM3Tl9kXfK7o3dX3ycabloXpubFA2y-hEPzg-zuBoxWfbzCStyfKGdeWRscayaNj1dbw
+Login into fusion portal and axis t
+user name: ramkumar.nagarajan
+password: sify12345
+
+Add call rates: 
+----------------  
+
+project url:   
+http://202.191.128.194/voiceDEV/web/index.php/site  
+
+folder path:   
+/var/www/html/voiceDEV/  
+
+Existing portal details for reference:
+--------------------------------------------- 
+
+URL                    : http://202.191.128.194/voiceDEV/web/index.php/site/login 
+Username           : voice.cet06
+Password            : sify1234  
+
+database
+---------
+
+'oci:dbname=//223.30.77.57:1521/CLICKSOFT', // Oracle
+'username' => 'CHANNEL_PARTNER_MIG',
+'password' => 'cpm#123'                
+
+
+196 server url
+---------------
+Host: 202.191.128.196
+User name :root 
+Password: unix
+
+
+Ram url login
+-------------- 
+http://202.191.128.194/voiceDEV-ram/web/index.php/site/login
+
+
+vinoth url login
+------------------
+http://202.191.128.194/voiceDEV-vinoth/web/index.php/ratesmaster/index
+
+username : callrateuser
+password: sify1234
+
+another user
+---------------
+username : callrateadmin           
+password: sify1234
+
+Required s/ws 
+----------------- 
+1.Notepadd++ with ftp.  
+2.winscp.  
+3.xampp.  
+4.plsql developer.  
+5.sql developer. 
+6.ip messanger.   
+7.outlook. 
+8.composer.   
+
+file deployment
+-------------------
+1. cm request ->infodesk site. (particularly for db oriented changes)
+>> do some process and upload the zip file and sent the mail to oracle (db) team.
+
+1.file changes
+2.site upload
+3.mail 
+
+2.file deployment. -> othe site.
+>>  do some process and the file changes need to uploaded and finally send the mail.
+
+1.file changes
+2.excel update
+3.site upload
+4.mail
+mail to sysops@sifycorp.com
+
+#temples
+
+8 sive temples - ashta veeratanam
+------------------------------------------ 
+http://creative.sulekha.com/ashta-veeratta-sthalams-diwali-tour-part-14_383234_blog
+http://templesatindia.blogspot.com/2010/04/blog-post.html
+
+svn url
+---------
+http://source.sify.net/svn/TEAM-IS/FUSION/production/tag/
+
+
+Mayiladuthurai
+
+1.Thiru Vazhuvoor Veerattanam Shiva Temple, Vazhuvur - Poovalai Rd, Kappur, Tamil Nadu 609401
+2.Thirupariyallur veerattam, Parasalur, Tamil Nadu 609309
+3.thirukurrukai 
+3.Thirukadaiyur, Tamil Nadu
+
+places
+--------
+
+Thirukandiyur - Near Thiruvaiyaru
+
+Thirukovilur - Villupuram District
+
+Thiruvadhigai - panruti.
+
+thiruvirkudi - near thiruvarur
+
+
+Thirukadaiyur - near mailadu durai, karaikal thiruvaiyaru. 
+
+saptha vidanga sthalangal  
+
+I am baskaran with my father K. Thangavel 80 years & my family members went the  sapthavidangar, Thyagaraja swamy temple in a single day  sequence of visiting the temple 
+1. thirukaravasal
+2. thirukuvalai
+3.thiruvaimoor
+4.thirvedai ( vedaranyam)
+5  thirunagai (Nagappatinam)
+6. Thirunallar( near Karaikal)
+7, Thiruvarur
+seven cosmic dance temples -very nice
+
+http://drlsravi.blogspot.com/2015/02/the-saptha-vidanga-sthalams-seven.html
+
+http://lh4.ggpht.com/-1T_QS3r1-u8/VOYd1icTenI/AAAAAAAASq4/Ge2hUKx1Ahw/s1600-h/clip_image002%25255B6%25255D.gif
+
+
+fusion dev url 
+------------------ 
+http://202.191.128.195/fusion/login.php
+
+http://202.191.128.195/fusion/connectivity-impl/connectivity-rsde/ 
+
+username: fusion.support 
+password: any word for password   
+
+live clone url 
+---------------- 
+http://223.31.220.17/connectivity-impl/connectivity-rsdm/edit_conn_order.php
+Username: prabu.narayanasamy
+Password: any other password. 
+
+another login
+------------------  
+Username: manikandan.ramar
+Password: any other password. 
+
+fusion live url
+---------------    
+https://fusion.sify.net/ 
+
+IP : 223.30.77.200(LB) 
+223.30.77.198 & 223.30.77.199 (Apps Webserver) 
+223.30.77.192, 223.30.77.193 (Fusion Server)  
+  
+fusion admin live admin url
+--------------------------- 
+https://fusion.sify.net/fusion_admin.php
+username: prabu.narayanasamy
+password: any password 
+
+fusion dev server details
+--------------------------------
+
+Server IP : 202.191.128.195
+
+User name: root
+
+Password : f15#!DeSe-RO
+
+live clone server details
+------------------------- 
+IP : 223.31.220.17
+
+User Name : root
+
+Password : M1DEWKIR 
+
+error log
+----------
+fusion.sify.net/upload/error_log.txt  
+
+for server start
+----------------
+service httpd status
+service httpd start
+
+service httpd -k start
+
+Clone error log
+----------------
+http://223.31.220.17/upload/dop_error_log.txt
+
+
+corono emergency number 
+-----------------------
+104
+1077
+
+  
+fusion support login
+--------------------------
+https://fusion.sify.net
+
+username: ramkumar.nagarajan 
+password: anywords
+
+ipaddress
+--------- 
+kalai: 79
+prabu: 164
+Ram: 19   
+raju: 213 (current) 
+
+language learning
+------------------ 
+more websites on this link
+>> 
+https://www.fluentu.com/blog/english/english-speaking-online/
+
+1.
+https://www.busuu.com/en
+2.
+http://www.lingoglobe.com/
+3.
+https://www.coffeestrap.com/
+
+https://www.conversationexchange.com/s_map/learn.php?language=hindi
+Shipra88     ->  skypeID. 
+
+uname: ramal472kj@gmail.com
+pword: ramal472kj@gmail.com 
+
+Forum 
+------ 
+https://www.fluentin3months.com/forum/find-a-conversation-exchange/   
+
+CM Request
+----------- 
+https://infodesk.sify.net
+
+To software install
+-------------------- 
+need to call 3339.
+
+OASUPPORT SOFTWARE INSTALLTION
+
+To the following number: 9664166000 
+
+Network team issue.
+--------------------
+Ex: server is not reachable 
+
+oasupport.projectmanager@sifycorp.com
+oasupport.lead@sifycorp.com
+
+
+Nodejs usefull commands
+------------------------ 
+ref url: https://tecadmin.net/upgrade-nodejs-via-npm/
+
+yum npm cache clean -f
+yum npm install -g n 
+yum ln -sf /usr/local/n/versions/node/6.0.0/bin/node /usr/bin/node     
+
+tax details:
+
+12-3-2019
+==========
+
+ilabs or rlabs 
+---------------
+last working date of ilabs 28-9-2018.   
+
+Sify
+
+22 - oct - 2019
+---------------- 
+
+april - 2018
+may - 2018
+june - 2018
+july - 2018
+august - 2018
+september - 2018  
+
+octomber - 2018
+november - 2018
+december - 2018      
+     
+support     
+--------     
+STAR HEALTH&ALLIED INSURANCE CO LTD-CONN - 132196
+
+insurance for 2021
+------------------
+https://hcm.bajajallianz.com/BagicHCM/Health_Ecard/getMembdtls.do
+policy number - OG-22-1501-8403-00000047   
+Employee Code - T11032018   
+
+
+https://portal.starhealth.in/Agent/NewGen/GenerateIdCard.aspx 
+P/110000/01/2020/000070
+T-1103/2018
+30/12/1988
+
+vikatan
+--------
+game changer. 
+-------------- 
+https://www.vikatan.com/anandavikatan/2019-apr-10/serials/149767-game-changers-practo.html  
+
+mail reference in clone.
+-------------------------
+C:\Users\C16415\AppData\Roaming\Notepad++\plugins\Config\NppFTP\Cache\root@223.31.220.17\data1\fusion\connectivity-impl\connectivity-tempdisconn-ra\db_operation.php   
+
+Support tracker (27-5-2019) 
+--------------------------- 
+https://sify.sharepoint.com/:x:/s/supports/InformationServices/EcU4yO1bY65Bggwqt3r3RLkBufL25PIFeMDdG0QuJjcE5g?rtime=cTl27Qjk1kg 
+
+Server issues
+-------------- 
+https://sify-my.sharepoint.com/:w:/g/personal/prabu_narayanasamy_sifycorp_com/ESIC5C4w7htEjXas1wRoXPkBfJOiF9WfzYdQzi0x_G7J1g?e=4%3A8kcNq2&at=9&CID=51db7e25-a07d-44dc-c579-ea8fbfa022be
+
+
+File Deployement (deployment)
+------------------------------
+URL : http://source.sify.net/svn/TEAM-IS/FUSION/production/tag/
+
+* Commit the files in svn.
+* Prepare the excel sheet 
+ >> Mainly change the given url.
+* and then mail the excel file in to sysops team.
+
+prabu system latest password:
+-----------------------------
+Apr@2020 (from april 2020)          
+
+Jun@2021 (from 27-5-21) 
+            
+prabu system svn username password:
+-----------------------------------
+username: prabu.narayanasamy@sifycorp.com
+password: Nov@2020 (from 2-3-2021) 
+
+
+
+sql (oracle) check null value in case.
+
+  CASE
+  WHEN ho_region IS NULL THEN 'NULL' 
+    ELSE ho_region END ho_region, 
+
+Any desk password:
+------------------ 
+itsmani84	
+
+anydesk
+-------
+user start with c
+password: sify15
+
+Fusion flow
+------------
+1.Sales user rise the feasibility.
+2.Sales head approve.
+3.Assign the sales to RM.
+4.RM assign RSDE.
+5.RSDE assign particular team.
+6.cpe enter details.
+7.RSDE IR Upload.         
+
+Yash mail.
+---------- 
+
+2019015085
+
+m 
+no pnmm services.
+
+customere implementation address
+---------------------------------	
+TOLL TAX PLAZA, RAJOKARI BORDER, DELHI-GURGAON BORDER, NEW DELHI,TOLL TAX PLAZA, RAJOKARI BORDER, DELHI-GURGAON BORDER, NEW DELHI,,04,DELHI, Delhi, 110038, IN
+
+in nms module.
+---------------
+
+Implementation Address
+----------------------- 	TOLL-TAX-PLAZA-RAJOKARI-BORDER-DELHI-GURGAON-BORDER-NEW-DELHITOLL-TAX-PLAZA-RAJOKARI-BORDER-DELHI-GURGAON-BORDER-NEW-DELHI04DELHI-Delhi-110038-IN
+
+2019019619 - not showing in nms.
+
+no pnmm services.
+
+Customer implementation Address
+
+UPPCL4118-Collection Center Water Works Hathras,Hathras,,04,HATHRAS, Uttar Pradesh, 204101, IN
+
+
+2019019620 - in nms  
+
+Implementation Address	
+
+UPPCL4118-Collection-Center-Water-Works-HathrasHathras04HATHRAS-Uttar-Pradesh-204101-IN
+
+
+in cpq intiated with pnmm services. (managment codes).
+
+
+The issue is 
+-------------
+order created with cpq portal, but its showing with 2 link ids in fusion.
+
+clone url
+---------
+http://223.31.220.17/login.php
+
+prabu.narayanasamy
+any password 
+
+dev url
+--------
+http://202.191.128.195/fusion/
+
+fusion.support
+any password 
+
+CM Request
+----------- 
+kuzhanthaiselvam.ayyavu@sifycorp.com
+
+
+linked in
+----------
+username: ram.nagarajan88@gmail.com
+username: 9659212122
+password: ramacer66
+
+url: https://www.linkedin.com/in/ramkumarn-212122/
+
+have to follow these profiles
+==============================
+https://www.linkedin.com/in/sangeet-bhusan-das-58a8aa17/?originalSubdomain=in
+>> sangeet from standard chartered.
+
+port ir
+-------
+jirra id
+
+ISFUSION-2331
+
+#form-16 #form16
+================= 
+Octomber 22 - March 31 ID company. 
+April 1 - September 31 ilabs company.
+
+To change ip address
+---------------------
+1.control panel -> network and sharing center -> change adapter settings -> right click on local area network -> ip v4 -> properties -> change the ip.     
+
+nodejs course
+-------------
+andrew teaching course
+-----------------------
+udemy login details
+-------------------
+ramal472kj@gmail.com
+ramacer16 
+
+https://www.udemy.com/cart/success/226956762/
+
+https://www.udemy.com/the-complete-nodejs-developer-course-2/
+
+jirra id for work order bso wireless 2412
+
+
+dba team
+---------
+1230
+
+
+
+apex report login details:
+--------------------------
+apex report login.
+
+daniel.manoharan
+$ifY@279
+
+prabu.narayanasamy 
+May@2020
+
+mani kt share point url
+-----------------------
+https://sify.sharepoint.com/:f:/s/supports/InformationServices/EsrgNfnlA29Ngg7VaUbZI_sBsg0KDdVEjpPNDWNZOs2rqw?e=MIXWAj
+
+
+outlook username password (23-10-2019)     
+======================================
+ramkumar.nagarajan@sifycorp.com
+Sify^654
+
+system username password
+=========================
+ramkumar.nagarajan@sifycorp.com
+Sify$432    
+
+new outlook onedrive password (26-4-2020) 
+-------------------------------  
+Sify%5432   
+
+new outlook onedrive password (12-8-2020) 
+-------------------------------  
+Sify$1234
+sify mail password till 10-5-2021
+----------------------------------
+ramkumar.nagarajan@sifycorp.com 
+Sify$1234
+
+sify mail password on from 10-5-2021
+----------------------------------
+ramkumar.nagarajan@sifycorp.com 
+Sify#123   
+
+sify mail password on from 5-10-2021
+-------------------------------------  
+ramkumar.nagarajan@sifycorp.com 
+jnzwmcgpksxxnfvz
+
+teams username and password.
+---------------------------
+ramkumar.nagarajan@sifycorp.com
+Sify#1234 
+   
+fusion support mail username password
+--------------------------------------
+
+5-10-2020
+=========
+username: fusion.support@sifycorp.com                   
+
+from 13-10-2021
+--------------- 
+PWD : Oct#2021
+
+Oct#2022233 
+
+DBA team
+-------- 
+1230
+
+ip details:
+------------
+79 - new joiny using ip addresses
+207 - new joiny 
+
+printer name
+------------
+kesorataskalpha
+
+printer mail id
+---------------- 
+scanner1@sifycorp.com 
+
+
+react js with nodejs  crud operation url
+----------------------------------------- 
+https://developer.okta.com/blog/2018/07/10/build-a-basic-crud-app-with-node-and-react     
+
+node with mysql crud operation
+------------------------------- 
+https://www.edureka.co/blog/node-js-mysql-tutorial/      
+
+react tamil tutorial
+---------------------
+https://www.youtube.com/watch?v=tNUBzUcxgjg&list=PL-jqscZ47_l54DIWmBqoKeWLreI5SwMvD
+
+react english tutorial
+-----------------------
+https://www.youtube.com/watch?v=oecI26cWqzk&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=7
+
+react interview questions.
+---------------------------
+https://www.fullstack.cafe/react/what-are-props-in-react
+
+
+pending for upload the doc request
+
+
+
+Sd-wan issue
+-------------
+Completed
+----------
+duplicates removed.
+
+pending
+--------
+Need to update the order number and header id and need to update the order number and header id in all query (join queries)
+
+
+service-desk extension number
+------------------------------
+
+2638  
+
+prasanth.
+
+
+IIFT demat account
+-------------------
+ramdem88
+ramdem88
+
+mymail ids
+----------
+ram.nagarajan8812@gmail.com
+ram.nagarajan88@gmail.com
+ram.creater16@gmail.com
+ramal472kj@gmail.com
+
+
+iifl LOGIN DETAILS 
+IIFL 
+User name:
+ramdem88
+Password:  
+
+16-07-2021 
+----------
+
+password - Ramdem88()4 (12-03-2023)
+
+Ramdem88@5
+
+Ramdem88@6 - (last updated on 29-12-2024)
+
+Ramdem88@7 - (last updated on 10-04-2025)
+
+mpin - 212223
+>> from 26-04-2024
+
+Voter id. (16-1-2020)
+--------------------- 
+ram.nagarajan8812@gmail 
+Ramacer16! 
+
+Apex login
+-----------
+
+dineshbabu.arumugam
+Zxcv*890 
+
+Apex login for dop.
+-------------------
+
+http://apex.sify.net:8080/apex/f?p=116:8:11128075493903::NO::
+
+vinay.yadav
+Sim@2019  
+
+
+http://apex.sify.net:8080/apex/f?p=116:12:32930876229580::NO::
+
+Apex piyush login
+------------------
+piyush.asodia
+Prince$0
+
+Bharat given credential:
+----------------------- 
+USer id is: ka.dop
+PWD: dop@ka
+https://apps.sify.net/dop
+
+
+Some of the sitecodes are not listed in DOP below report
+--------------------------------------------------------
+
+Reports for Odisha circle
+------------------------- 
+https://apps.sify.net/dop/view_conn_dop.php​
+
+User ID : or.dop
+PWD: dop@or
+
+
+
+Jirra support id
+----------------
+2428
+2427
+ISFUSION-2428     
+
+smoke url. (dop smoke)
+----------------------
+
+http://r12smokeapp.sify.net:8000/
+
+username: erpsupp
+password: erpdev34 
+
+after 18 may 2020
+------------------ 
+3erp18May20
+
+
+UAT3 url (dop demo) 
+------------------- 
+http://ebsuat3.sify.net:8000/OA_HTML/OA.jsp?OAFunc=OANEWHOMEPAGE#dummyAnchor
+ 
+SARANYA.RAJENDRAN / welcome321
+>> not valid password.       
+SARAVANAN.MOHAN/ Sify!123
+>> valid password.      
+ 
+For SC creation.
+----------------
+SIFY INDIA SC USER -> Launch Contracts.      
+>> try in firefoz browser. 
+  
+mits.database
+-------------
+Extn:1230 
+
+Team viewer
+-----------
+Username : 1499637241 
+Pw : fusion@123 
+
+my team viewer password:
+-----------------------
+ram@123 
+
+aravind team viewer
+--------------------
+1618510603
+
+
+DBA
+---- 
+1176
+call dba team muthu raja 
+
+trackers
+---------
+Deviation tracker
+------------------
+
+https://sify.sharepoint.com/:x:/s/supports/InformationServices/EQ-z1gRS_BZJp3BnhpH6xrIB3rDyDEdTBSyVpP5G6PR_7g?e=1yAy0z&CID=540c381b-6851-4ab4-ae8b-a7ac05fc31f2 
+
+CM raised tracker
+------------------ 
+https://sify.sharepoint.com/:x:/r/sites/supports/InformationServices/_layouts/15/Doc.aspx?sourcedoc=%7B4739CEDD-563F-4D4B-99CD-1C441E226FB8%7D&file=Fusion%20-%20Project%20Tracker.xlsx&action=default&mobileredirect=true
+
+project deviation status url
+----------------------------   
+https://sify.sharepoint.com/:x:/s/supports/InformationServices/EQ-z1gRS_BZJp3BnhpH6xrIB3rDyDEdTBSyVpP5G6PR_7g?e=1yAy0z&CID=f83384bf-77c7-541e-e292-e62564ef721a
+
+1212 
+1200
+senthil unix team.  
+
+
+Project Tracker
+---------------- 
+CM Request log tracking
+----------------------- 
+https://sify.sharepoint.com/:x:/r/sites/supports/InformationServices/_layouts/15/Doc.aspx?sourcedoc=%7B4739CEDD-563F-4D4B-99CD-1C441E226FB8%7D&file=Fusion%20-%20Project%20Tracker.xlsx&action=default&mobileredirect=true
+
+
+VPN 
+---
+username,password
+
+ramkumar.nagarajan@sifycorp.com
+Sify%543 
+
+after 24-7-2020
+----------------  
+Sify#123
+ 
+another login detail: 
+---------------------  
+VPN Profile Name: R12Internal  
+Password: i$$erver#2020 
+ 
+tamil vpn credentials: 
+---------------------- 
+tamilagathiyan.tamilmani@sifycorp.com
+Nodejs@9
+
+
+voice portal live url:
+----------------------
+https://sifyconnect.sify.net/voice/web/index.php/site/login
+
+parvadhavarthni.shanmugam
+Sify@302
+
+voice existing portal database: 
+--------------------------------
+VOICE_ONBOARDING
+
+V01ce5oRd
+
+210.214.45.148/1522
+
+CORPPROD
+
+voice portal development details:
+--------------------------------- 
+VOICE_ONBOARDING/sify123@223.31.220.12:1522/CRPCLONE
+
+Channel parter prod credentials
+--------------------------------
+CHANNEL_PARTNER_PROD
+
+Chann0PGTrd
+
+210.214.45.148
+ 
+1522
+ 
+Server name CORPPROD
+ 
+ 
+DBA Issues:
+----------- 
+Effective today, our Fusion Portal Oracle DB… commonly called as CORPROD or Apex server is being handed over to 4iApps Team for managed services.   Sify DBAs are no more involved in any support of this.
+ 
+Going forward, any support related to Oracle Database Servers be it ERP, Apex or Custom Applications, you can contact sifysupport@4iapps.com.
+  
+github: (git.hub)     
+--------
+ramkumar-88
+ram.nagarajan88@gmail.com
+ramacer16
+
+stackblitz
+-----------
+https://stackblitz.com/
+ramkumar-88
+ram.nagarajan88@gmail.com
+ramacer16
+
+CodeSandbox
+------------
+https://codesandbox.io/
+ramkumar-88
+ram.nagarajan88@gmail.com
+ramacer16
+
+git commands
+------------ 
+git pull
+git branch
+git checkout -b ramkumar
+git push
+
+https://readwrite.com/2013/10/02/github-for-beginners-part-2/?__cf_chl_jschl_tk__=47d4a52e98b172a24d5090c274e870289a5ade5c-1587386429-0-AZU_hqgE0bWEoVlbSuLG6FP-GweF7ZTBqhD-xJnvkDZe4uJSX3ZDB42i3svAnMhvS3nZPB91fcPiFXm3U5iKhS1mDLo01utyO96Pq6cX6sWMQDTckkhqX-wN1fOg8ZSLYd4KTKOBFEIX1RROCoyIoxXcJb-mFY6-8xKqW8Slcgv5wS-SHK_krqZEjI7mlN4_a_BdtcrGhdl_pRkVXNYKhOPEl2-FpuJaJPAIZojNBKMtjIjWJO9wGKqMhmxCdiqX45eZB44DbE69hOtCb6uZB2TeLUuMaSXd8HaqfLAAU4kapdX0oo_-fo8dlIWZ3bjmU16hjGmYQU8T2NqGQYDVJfJC7hMvrncQz6WJkOq-XJ0tn3B9HaqZDSYC_Rs0WGL92A
+
+
+How to disable automatic updates using group policy
+--------------------------------------------------- 
+start-> gpedit.msc -> computer configuration/administrative templates/ windows components/ windows update/double click the -> configure automatic updates
+and check the not configured.
+ 
+>> now i choosed disabled option for avoid backgroud data usage. 
+ 
+ 
+sify leave url (holiday url)  #holiday  #leave      
+============================================== 
+http://sifynet.sify.net/sifynet_v1/       
+>> she said not sure once the amount will pay for previllage leave.  
+
+ 
+Dashboard free template url. 
+---------------------------- 
+https://colorlib.com/wp/free-html5-admin-dashboard-templates/     
+ 
+Pending Leave's 
+---------------- 
+Basic pay amount can get for the privillage leave on releaving time.          
+ 
+zoom 
+---- 
+username: ram.nagarajan88@gmail.com  
+password: Ram55555       
+
+facebook
+---------
+ramal472kj@gmail.com
+ramacer16
+
+sankar email id:
+----------------
+sankar1012@gmail.com
+sankar_21531@yahoo.co.in
+
+#murugeson
+-----------
+1000 - leave its 
+700  - emi - march 2020 
+1000 - during lock down - april 2020     
+2000 - for emi praba.
+
+
+productive thoughts by anand
+-----------------------------
+1.Split the work by 30 to 45 min task.
+2.avoid distraction. 
+3.fear of failure.
+4.do what u like don't by others say.
+
+feasibility_portal (feasibility portal)
+---------------------------------------
+Live
+-----
+https://apps.sify.net/feasibility-portal/#!/
+
+User id - admin.sify                     
+Password - Sify1234                       
+     
+Clone
+------       
+User name:  admin.sify     
+Password: 1234567      
+Link:  http://202.191.128.195/feasibility-portal/login.php    
+Live: https://apps.sify.net/feasibility-portal/login.php              
+
+desikru portal url is above.          
+
+
+partner portal
+---------------
+live 
+-----
+https://apps.sify.net/partnerfeas/SifyAdmin/SifyFeasibilityCompleted.php?fid=2326204&vid=4
+    
+uername - venkatasatish.t@i-on.in    
+password - sify@123 
+
+feasibility portal 
+-------------------
+http://223.31.220.17/feasibility-portal
+username : admin.sify
+password: 1234567
+
+
+
+partner portal demo url and access prabu given
+===============================================  
+https://ws-test.sify.net/BSOWirelessPro/login.php
+
+username: venkatasatish.t@i-on.in
+password: sify@123
+
+sudhir@ttsl.co.in
+wireless@1234
+
+		
+30-3-2020
+==========
+#anydesk 
+--------- 
+Prabu system
+------------ 
+145252041
+
+password: 
+itsmani84
+
+Prabu password:
+Mar@2020
+
+From 12-8-2020
+
+May@2020
+
+victor system.
+------------- 
+801168315
+sify@123
+
+streem
+-------
+https://web.microsoftstream.com/video/46537f3e-8dc9-4093-b8f5-1d3ecec21a04
+>> IT services KT.
+
+Realwire
+---------
+https://myaccount.realwire.in/account#
+username: ram5
+password: 12345
+password: RW@#3871r
+>> from 04-04-2024
+
+real wire mobile ref no: 7305938878
+
+real wire another mobile ref no: 8678944447
+
+he is saying current balance will clear in frequently and it is the mean by,
+how many amount recharge done by you till now.
+
+CM request for Server issue
+----------------------------
+1.For server issue.
+* We need to raise the sysops team mail and CM Request.
+* For choose the category better need to ask to team.  
+ 
+#english-udemy
+---------------
+username: sankar.narayanan3@gmail.com
+password: wipro@123
+
+https://wipro.udemy.com/course/improving-your-english-fluency/
+https://wipro.udemy.com/course/learn-english-grammar-upgrade-your-speaking-and-listening/
+
+flipkart login details:
+------------------------
+username: 9659212122
+password: 995832      
+
+appa atm on new activation (3-9-2020)
+--------------------------
+0280  
+
+8-9-2020
+=========
+bike service
+-------------
+1.General service.
+2.Engine oil.
+3.Back wheel minute puncher
+4.Battery recharge.
+5.right side hand bar turn means it make auto rising. 
+6.Water service.         
+7.Low speed the bike is off. 
+8.If tier need to change. 
+
+9.helmet lock remove.  
+
+#sankar talk
+-------------
+1.Sit properly and concentrate on leg don't fold the leg while sitting in floor. 
+2.Avoid hand on face while talking.  
+3.Avoid spitting action before spitting. 
+4.Avoid telling again to the person about the old issue happend by them.     
+
+
+#pending personal works
+------------------------ 
+Marriage works
+---------------
+1.Tie
+2.Bus for prc.
+3.dresssing stand order.
+
+prema talk
+-----------
+1.about the salary dedection of tax.
+2.leave pending.
+3.salary detection of sep 2020 month. 
+
+prabu annan project
+--------------------
+https://code-projects.org/online-shopping-system-in-php-with-source-code/
+>> product listing project. 
+
+borrow  
+-------
+need to give from me 
+--------------------- 
+kannadhasan - 10000 
+appa - 800 bike service
+appa - 1500 for hand bangel. 
+sankar - 30000 + 5000 (5000 bring on 16-10-2020)           
+sankar - 340 for shirt stricting bill for me (19-10-2020)
+
+murugeson pending amounts given to me so no amount is need to give it to me. 
+>> updated on 15-10-2020	 
+
+Bala renganathan, murugeson funds 
+---------------------------------- 
+october 2020 - given 2000 rs.            
+	 
+commit to others
+-----------------
+1.30000 - to kannadhasan (10000(pending amount to give to him) + 20000 (he asked from me on this)). 
+2.2000 - to murugeson for every month. 
+3.5000 - to sankar for every month.        
+
+need to collect
+----------------
+1.prabu 15k
+2.kannadhasan 2k
+3.subbu 5k 
+
+leave reply mail
+-----------------
+I am on leave till 21/11/20 and have very limited access to emails and phone. 
+Pls expect delay in repsonse. 
+
+project tracker
+---------------
+https://sify-my.sharepoint.com/:x:/g/personal/prabu_narayanasamy_sifycorp_com/ETpJjACHuaxPpa-rdJnXlmABTtXglCKqlOyCG6XwA-Y4Xw?e=4%3AtoIigW&at=9&CID=7e91e4ab-e224-8a17-3a7f-ad5770643cbc
+
+
+project deviation
+------------------
+https://sify-my.sharepoint.com/:x:/g/personal/prabu_narayanasamy_sifycorp_com/EUsTVryR711DsVABx19dINYBozrN_Q8acCE3uUpe0lbKGg?e=4%3AAqBgiy&at=9&CID=c59db037-04e1-732b-15a3-7164efc2f692
+
+project common tracker
+----------------------  
+https://sify.sharepoint.com/:x:/s/supports/InformationServices/Ed3OOUc_VktNmc0cRB4ib7gB8i4Uaq1kRKclgMPZx335-g?rtime=nPrqZ3sL10g
+
+Project module status tracker (22-20-2020 send by prabu) 
+------------------------------
+https://sify-my.sharepoint.com/:f:/g/personal/prabu_narayanasamy_sifycorp_com/ErAUYr99I0VPjqSNbfVR02oBrC0TE8e_p9UNKHSUl__FeA?e=mwa0Rr
+
+Godwin send url:
+----------------- 
+https://sify-my.sharepoint.com/personal/prabu_narayanasamy_sifycorp_com/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fprabu%5Fnarayanasamy%5Fsifycorp%5Fcom%2FDocuments%2FFusion%20Tracker&FolderCTID=0x012000E456BC3DD8BF774F8D4B8EF703F5CA89&View=%7BD1E16A3F%2D318D%2D4CD8%2DAD2C%2DA282379C68D1%7D
+
+React js projets on youtube links
+---------------------------------
+Expense Tracker: 
+----------------
+https://www.youtube.com/watch?v=XuFDcZABiDQ 
+
+Example url:
+------------ 
+D:\nodejs\reactjs\expense-tracker-react-master>
+
+Hangman Project:
+----------------- 
+https://www.youtube.com/watch?v=jj0W8tYX_q8&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=17
+
+
+Reactjs practice
+-----------------
+
+React js projets on youtube links
+---------------------------------
+Expense Tracker: 
+----------------
+https://www.youtube.com/watch?v=XuFDcZABiDQ  
+
+>> done.
+
+Hangman Project:
+----------------- 
+https://www.youtube.com/watch?v=jj0W8tYX_q8&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=17  
+>> watched till fully but need to be note it down.
+
+Build a GitHub Jobs App With React Hooks 
+-----------------------------------------
+https://www.youtube.com/watch?v=fxY1q4SCB64&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=26
+
+React App - Breaking Bad API
+----------------------------- 
+https://www.youtube.com/watch?v=YaioUnMw0mo&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=25
+
+reactjs 15 projects 
+-------------------- 
+https://www.youtube.com/watch?v=ly3m6mv5qvg
+
+
+Resume youtube video
+---------------------
+
+https://www.youtube.com/watch?v=4VRgTu1y5DA&t=435s
+>> tamil. 
+
+
+English 
+-------- 	
+https://www.youtube.com/watch?v=_lXOYUSbF5M
+
+https://www.youtube.com/watch?v=Yeg29d5mxJY
+
+https://www.youtube.com/watch?v=RcNYMhL980o
+
+ 
+phpinfo.php url 
+--------------- 
+https://fusion.sify.net/sysops.php 
+
+naukri login details:
+---------------------
+username: ramcreater16@gmail.com
+password: ramacer16 
+
+indeed login details:
+--------------------- 
+username: ram.nagarajan88@gmail.com
+password: ramacer16 
+
+usefull url:
+------------ 
+https://www.naukri.com/mnjuser/homepage
+https://www.naukri.com/mnjuser/performance#recruiterActions
+
+skype id (created on 5-2-2021) 
+---------
+url: https://web.skype.com/
+ 
+ramal472kj@gmail.com
+ramacer16   
+
+term insurance reference link 
+-----------------------------   
+https://www.vikatan.com/business/insurance/term-insurance-important-questions-and-answers
+
+cpq portal admin page url:
+--------------------------
+https://apps.sify.net/feasibility/fus_admin.php 
+username: valid user name
+password: any password 
+
+cpq portal development server
+----------------------------- 
+https://ws-test.sify.net/feasibility_cpq/login.php
+ 
+manikandan.ramar
+12345 
+
+voter helpline login:
+---------------------
+9659212122
+Ramacer#3
+
+Ravi sir given share point files update url: (22-4-2021)
+-------------------------------------------------------- 
+https://sify.sharepoint.com/:f:/s/supports/InformationServices/EtGSR3x7abVHjCbnTv8hFVQBf8HMM_DGFoi2QYTVdxXQEA?e=Ckb0iR
+
+mongo db credentials
+--------------------
+ram.nagarajan88@gmail.com
+ramacer16
+
+postman credentials
+-------------------
+email: ram.nagarajan88@gmail.com
+password: ram88acer 
+username: ram-nagarajan88
+ 
+ 
+for server start 
+---------------- 
+service httpd status 
+service httpd start 
+ 
+>> use putty and using this commands we can check the status of server and start the server.  
+ 
+telnet connection command. 
+Telnet 202.191.128.194 22       
+ 
+house wifi password 
+------------------- 
+56300604    
+
+room wifi password (near ragava ganesh hospital) (airtel wifi)
+=============================================================
+123456987
+>> from 31-01-2025.
+
+Godwin KT Url:
+-------------- 
+https://sify-my.sharepoint.com/personal/prabu_narayanasamy_sifycorp_com/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9zaWZ5LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL3ByYWJ1X25hcmF5YW5hc2FteV9zaWZ5Y29ycF9jb20vRXJBVVlyOTlJMFZQanFTTmJmVlIwMm9CckMwVEU4ZV9wOVVOS0hTVWxfX0ZlQT9ydGltZT13OFZacmpoNDJVZw&id=%2Fpersonal%2Fprabu%5Fnarayanasamy%5Fsifycorp%5Fcom%2FDocuments%2FFusion%20Tracker
+
+>> Go to the project document. 
+
+feeasibility cpq admin url.
+---------------------------
+https://apps.sify.net/feasibility/fus_admin.php 
+username: userid
+password: anypassword 
+
+#Madurai Foods
+-------------
+1.Lassi shop 
+>> Melamasi Veedi Near Dindugal Murugan Temple  
+ 
+#books 
+-------
+1.unave marunthu. 
+https://www.udumalai.com/unavu-maruthuvam.htm  
+
+
+salary ctc
+----------- 
+select * from sify_self_ctc where upper(emp_name) like upper('%prabu%'); 
+
+amazon 
+------
+username: ramal472kj@gmail.com 	  
+password: ramal472kj@gmail.com
+
+
+Database configurations in sify 
+--------------------------------    
+ccoss/corpdev123@124.7.61.3:1521/CORPDEV 
+ccoss/sify123@223.31.220.12:1522/CRPCLONE   
+dop/sify123@223.31.220.12:1522/CRPCLONE
+ccoss_readonly/readGccoss@210.214.45.148:1522/corpprod 
+ccoss/OraCc05s@210.214.45.148:1522/corpprod
+
+CHANNEL_PARTNER_MIG/cpm#123@223.30.77.57:1521/CLICKSOFT
+VOICE_ONBOARDING/V01ce5oRd@210.214.45.148:1522/CORPPROD
+root/sify123@202.191.128.231:1521/voice
+voice/voice@13@202.144.77.186:1521/voice
+VOICE_ONBOARDING/sify123@223.31.220.12:1522/CRPCLONE
+ENTBCM/bllc0ll3ct@210.214.45.148:1522/CORPPROD
+fusion/Fus!on@202.144.77.186:3306/satmis
+entbcm/sify123@223.31.220.12:1522/CRPCLONE
+CHANNEL_PARTNER_PROD/sify123@223.31.220.12:1522/CRPCLONE
+CHANNEL_PARTNER_PROD/Chann0PGTrd@210.214.45.148:1522/CORPPROD   
+
+income tax credentials: (FY 21 to 22)
+====================== 
+BMQPR2912H
+Ramacer16^ 
+ 
+
+ cdsl account
+ -------------
+ username: ramacer16
+ security question:
+ who is your favourite sports person: dhoni
+
+ https://mfs.kfintech.com/
+ >> for consolidated account statement view.
+ username: ramal472kj@gmail.com
+ password: Ramacer16^
+ 
+pluxee sudexo username and password
+------------------------------------
+ramkumar.n@capgemini.com
+Ramacer16@
+
+
+sai delux pg room wifi
+----------------------
+pooja123
+
+chatgpt
+-------
+ramal472kj@gmail.com
+ramram123456
+
+telugu words
+=============
+aavnu - ama
+emi - yenna
+lethu - illa (singular)
+levu - illa (plural)
+ela unavu - epdi iruka
+ela unaru - epdi irukenga
+nenu pagu unavu - nalla iruken

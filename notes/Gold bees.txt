@@ -1,0 +1,11 @@
+﻿Gold bees
+========== 
+gold purity is 99.5% nearly 24carat
+actual price is - 0.01/unit price so 100units is 1 gram of gold.
+
+we have to keep this facts while buying gold bees.
+-------------------------------------------------
+expense ratio - gold bees.
+tracking error - (they keep some amount on ideal because of redumtion reasons).
+liquidity.(no of volumns trading).
+capital gain tax (we have to pay)
